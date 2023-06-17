@@ -14,6 +14,7 @@
 		FD98CBCC2A3DF44D00202426 /* janechaoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD98CBCB2A3DF44D00202426 /* janechaoTests.swift */; };
 		FD98CBD62A3DF44D00202426 /* janechaoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD98CBD52A3DF44D00202426 /* janechaoUITests.swift */; };
 		FD98CBD82A3DF44D00202426 /* janechaoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD98CBD72A3DF44D00202426 /* janechaoUITestsLaunchTests.swift */; };
+		FD98CBE52A3DF4BB00202426 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD98CBE42A3DF4BB00202426 /* Food.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		FD98CBD12A3DF44D00202426 /* janechaoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = janechaoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD98CBD52A3DF44D00202426 /* janechaoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = janechaoUITests.swift; sourceTree = "<group>"; };
 		FD98CBD72A3DF44D00202426 /* janechaoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = janechaoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FD98CBE42A3DF4BB00202426 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				FD98CBBA2A3DF44B00202426 /* janechaoApp.swift */,
+				FD98CBE42A3DF4BB00202426 /* Food.swift */,
 				FD98CBBC2A3DF44B00202426 /* ContentView.swift */,
 				FD98CBBE2A3DF44C00202426 /* Assets.xcassets */,
 				FD98CBC02A3DF44C00202426 /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				FD98CBBD2A3DF44B00202426 /* ContentView.swift in Sources */,
 				FD98CBBB2A3DF44B00202426 /* janechaoApp.swift in Sources */,
+				FD98CBE52A3DF4BB00202426 /* Food.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
